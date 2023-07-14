@@ -1,0 +1,5 @@
+target
+Cargo.lock
+.idea
+.criterion
+data/.ipynb_checkpoints
